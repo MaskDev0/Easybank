@@ -1,2 +1,2 @@
-# Manage
+# EasyBank
  Relative Responsive Landing Page
